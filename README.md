@@ -33,7 +33,7 @@ I'm Sayfuddinov Saloxiddin Frontend developer
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C081%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
 
 **I'm an Early 🐤** 
 
