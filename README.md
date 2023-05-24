@@ -30,9 +30,6 @@ I'm Sayfuddinov Saloxiddin Frontend developer
 
 #### Coding Stats
 
-[![wakatime](https://wakatime.com/badge/user/afbe7696-d35b-442b-aec7-a2c543fdfda9.svg)](https://wakatime.com/badge/user/afbe7696-d35b-442b-aec7-a2c543fdfda9)
-
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C080%20hrs%2059%20mins-blue)
 
