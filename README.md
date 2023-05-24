@@ -31,28 +31,16 @@ I'm Sayfuddinov Saloxiddin Frontend developer
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C080%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C081%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 27 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                330 commits         ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
-🌆 Daytime                746 commits         █████████████░░░░░░░░░░░░   50.92 % 
-🌃 Evening                371 commits         ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+🌞 Morning                330 commits         ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+🌆 Daytime                749 commits         █████████████░░░░░░░░░░░░   51.02 % 
+🌃 Evening                371 commits         ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
 🌙 Night                  18 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 
@@ -72,6 +60,9 @@ YAML                     13 mins             ░░░░░░░░░░░�
 🔥 Editors: 
 WebStorm                 24 hrs 31 mins      █████████████████████████   98.26 % 
 VS Code                  26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+
+💻 Operating System: 
+Windows                  24 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +82,6 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/saloxiddin04/saloxiddin04/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2023 07:07:38 UTC
 <!--END_SECTION:waka-->
 
 #### Github Stats
